@@ -1,0 +1,1262 @@
+[
+    {
+        "_id": "656af2a23712ce78b0b20b45",
+        "title": "Test Analytics qoolection",
+        "qoos": [
+            {
+                "_id": "656af2ab3712ce78b0b20b7d",
+                "title": "Test Analytics qoo 1",
+                "views": 2,
+                "viewTimes": [
+                    "2023-12-04T09:13:45.745Z",
+                    "2023-12-04T09:14:11.745Z"
+                ],
+                "engagements": [
+                    {
+                        "_id": "656d984a98a9ae2035c0f07a",
+                        "qoolection": "656af2a23712ce78b0b20b45",
+                        "qoo": "656af2ab3712ce78b0b20b7d",
+                        "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                        "duration": 4626,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T09:13:45.745Z"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "656d986498a9ae2035c0f0d2",
+                        "qoolection": "656af2a23712ce78b0b20b45",
+                        "qoo": "656af2ab3712ce78b0b20b7d",
+                        "contactToken": "e5d56dd5-31fb-4b0b-b3a7-43ff549da8d1",
+                        "duration": 7646,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T09:14:11.745Z"
+                            }
+                        ]
+                    }
+                ],
+                "totalViews": 2,
+                "viewsForQoolection": 2,
+                "uniqueViewsForQoolection": 2,
+                "viewTimeForQoolection": 12272,
+                "averageTimeForQoolection": 6136,
+                "uniqueViews": 2,
+                "totalViewTime": 12272,
+                "averageTime": 6136
+            },
+            {
+                "_id": "656af3043712ce78b0b20c26",
+                "title": "Test Analytics qoo 2",
+                "views": 5,
+                "viewTimes": [
+                    "2023-12-04T08:14:40.545Z",
+                    "2023-12-04T09:03:02.873Z",
+                    "2023-12-04T09:04:35.741Z",
+                    "2023-12-04T09:13:50.371Z",
+                    "2023-12-04T09:14:19.392Z"
+                ],
+                "engagements": [
+                    {
+                        "_id": "656d8a71eeb93bc4cbb13d53",
+                        "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                        "qoo": "656af3043712ce78b0b20c26",
+                        "contactToken": "1930b9ed-1e6f-4cf6-8c59-59a70c8f378c",
+                        "duration": 17742,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T08:14:40.545Z"
+                            },
+                            {
+                                "viewTime": "2023-12-04T09:03:02.873Z"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "656d962498a9ae2035c0f011",
+                        "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                        "qoo": "656af3043712ce78b0b20c26",
+                        "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                        "duration": 0,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T09:04:35.741Z"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "656d984e98a9ae2035c0f082",
+                        "qoolection": "656af2a23712ce78b0b20b45",
+                        "qoo": "656af3043712ce78b0b20c26",
+                        "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                        "duration": 4890,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T09:13:50.371Z"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "656d986b98a9ae2035c0f0da",
+                        "qoolection": "656af2a23712ce78b0b20b45",
+                        "qoo": "656af3043712ce78b0b20c26",
+                        "contactToken": "e5d56dd5-31fb-4b0b-b3a7-43ff549da8d1",
+                        "duration": 7011,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T09:14:19.392Z"
+                            }
+                        ]
+                    }
+                ],
+                "totalViews": 5,
+                "viewsForQoolection": 2,
+                "uniqueViewsForQoolection": 2,
+                "viewTimeForQoolection": 11901,
+                "averageTimeForQoolection": 5951,
+                "uniqueViews": 2,
+                "totalViewTime": 11901,
+                "averageTime": 2381
+            },
+            {
+                "_id": "656af3383712ce78b0b20cd7",
+                "title": "Test Analytics qoo 3",
+                "views": 2,
+                "viewTimes": [
+                    "2023-12-04T09:13:55.261Z",
+                    "2023-12-04T09:14:26.403Z"
+                ],
+                "engagements": [
+                    {
+                        "_id": "656d985398a9ae2035c0f08a",
+                        "qoolection": "656af2a23712ce78b0b20b45",
+                        "qoo": "656af3383712ce78b0b20cd7",
+                        "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                        "duration": 0,
+                        "eventType": "completed",
+                        "viewsByContact": []
+                    },
+                    {
+                        "_id": "656d985398a9ae2035c0f08e",
+                        "qoolection": "656af2a23712ce78b0b20b45",
+                        "qoo": "656af3383712ce78b0b20cd7",
+                        "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                        "duration": 14000,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T09:13:55.261Z"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "656d987298a9ae2035c0f0e3",
+                        "qoolection": "656af2a23712ce78b0b20b45",
+                        "qoo": "656af3383712ce78b0b20cd7",
+                        "contactToken": "e5d56dd5-31fb-4b0b-b3a7-43ff549da8d1",
+                        "duration": 0,
+                        "eventType": "completed",
+                        "viewsByContact": []
+                    },
+                    {
+                        "_id": "656d987298a9ae2035c0f0e6",
+                        "qoolection": "656af2a23712ce78b0b20b45",
+                        "qoo": "656af3383712ce78b0b20cd7",
+                        "contactToken": "e5d56dd5-31fb-4b0b-b3a7-43ff549da8d1",
+                        "duration": 8000,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T09:14:26.403Z"
+                            }
+                        ]
+                    }
+                ],
+                "totalViews": 2,
+                "viewsForQoolection": 2,
+                "uniqueViewsForQoolection": 2,
+                "viewTimeForQoolection": 22000,
+                "averageTimeForQoolection": 11000,
+                "uniqueViews": 2,
+                "totalViewTime": 22000,
+                "averageTime": 11000
+            }
+        ],
+        "category": [
+            {
+                "_id": "639b080181bb4f7757d00239",
+                "name": "Marketing"
+            }
+        ],
+        "audience": [
+            {
+                "_id": "639b080a81bb4f7757d0023d",
+                "name": "Marketing"
+            }
+        ],
+        "views": 2,
+        "viewTimes": [
+            "2023-12-04T09:13:45.745Z",
+            "2023-12-04T09:14:11.745Z"
+        ],
+        "type": {
+            "_id": "639af317c79aed771b65c7cd",
+            "name": "New Data"
+        },
+        "engagements": [
+            {
+                "_id": "656d984a98a9ae2035c0f07a",
+                "qoolection": "656af2a23712ce78b0b20b45",
+                "qoo": "656af2ab3712ce78b0b20b7d",
+                "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                "duration": 4626,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-04T09:13:45.745Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656d984e98a9ae2035c0f082",
+                "qoolection": "656af2a23712ce78b0b20b45",
+                "qoo": "656af3043712ce78b0b20c26",
+                "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                "duration": 4890,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-04T09:13:50.371Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656d985398a9ae2035c0f08a",
+                "qoolection": "656af2a23712ce78b0b20b45",
+                "qoo": "656af3383712ce78b0b20cd7",
+                "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                "duration": 0,
+                "eventType": "completed",
+                "viewsByContact": []
+            },
+            {
+                "_id": "656d985398a9ae2035c0f08e",
+                "qoolection": "656af2a23712ce78b0b20b45",
+                "qoo": "656af3383712ce78b0b20cd7",
+                "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                "duration": 14000,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-04T09:13:55.261Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656d986498a9ae2035c0f0d2",
+                "qoolection": "656af2a23712ce78b0b20b45",
+                "qoo": "656af2ab3712ce78b0b20b7d",
+                "contactToken": "e5d56dd5-31fb-4b0b-b3a7-43ff549da8d1",
+                "duration": 7646,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-04T09:14:11.745Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656d986b98a9ae2035c0f0da",
+                "qoolection": "656af2a23712ce78b0b20b45",
+                "qoo": "656af3043712ce78b0b20c26",
+                "contactToken": "e5d56dd5-31fb-4b0b-b3a7-43ff549da8d1",
+                "duration": 7011,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-04T09:14:19.392Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656d987298a9ae2035c0f0e3",
+                "qoolection": "656af2a23712ce78b0b20b45",
+                "qoo": "656af3383712ce78b0b20cd7",
+                "contactToken": "e5d56dd5-31fb-4b0b-b3a7-43ff549da8d1",
+                "duration": 0,
+                "eventType": "completed",
+                "viewsByContact": []
+            },
+            {
+                "_id": "656d987298a9ae2035c0f0e6",
+                "qoolection": "656af2a23712ce78b0b20b45",
+                "qoo": "656af3383712ce78b0b20cd7",
+                "contactToken": "e5d56dd5-31fb-4b0b-b3a7-43ff549da8d1",
+                "duration": 8000,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-04T09:14:26.403Z"
+                    }
+                ]
+            }
+        ],
+        "totalViews": 2,
+        "uniqueViews": 2,
+        "totalViewTime": 46173,
+        "averageTime": 23087,
+        "completedContacts": 2,
+        "completionRate": 100
+    },
+    {
+        "_id": "656b03d747e6af5bd5635582",
+        "title": "Analyze test",
+        "qoos": [
+            {
+                "_id": "656b03ea47e6af5bd56355ce",
+                "title": "at q1",
+                "views": 3,
+                "viewTimes": [
+                    "2023-12-05T08:00:07.927Z",
+                    "2023-12-05T08:01:42.400Z",
+                    "2023-12-05T08:02:14.054Z"
+                ],
+                "engagements": [
+                    {
+                        "_id": "656ed888f28e16d8cf83b46c",
+                        "qoolection": "656b03d747e6af5bd5635582",
+                        "qoo": "656b03ea47e6af5bd56355ce",
+                        "contactToken": "98d4f79d-e453-4a1d-ace9-a20ad2a4f860",
+                        "duration": 11665,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-05T08:00:07.927Z"
+                            },
+                            {
+                                "viewTime": "2023-12-05T08:01:42.400Z"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "656ed906f28e16d8cf83b5c8",
+                        "qoolection": "656b03d747e6af5bd5635582",
+                        "qoo": "656b03ea47e6af5bd56355ce",
+                        "contactToken": "9697d8e7-1fbd-42f8-bbe9-55c918de6a57",
+                        "duration": 5949,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-05T08:02:14.054Z"
+                            }
+                        ]
+                    }
+                ],
+                "totalViews": 3,
+                "viewsForQoolection": 3,
+                "uniqueViewsForQoolection": 2,
+                "viewTimeForQoolection": 17614,
+                "averageTimeForQoolection": 5872,
+                "uniqueViews": 2,
+                "totalViewTime": 17614,
+                "averageTime": 5872
+            },
+            {
+                "_id": "656b048e47e6af5bd56356df",
+                "title": "at q2",
+                "views": 3,
+                "viewTimes": [
+                    "2023-12-05T08:00:16.521Z",
+                    "2023-12-05T08:01:45.472Z",
+                    "2023-12-05T08:02:20.002Z"
+                ],
+                "engagements": [
+                    {
+                        "_id": "656ed891f28e16d8cf83b47e",
+                        "qoolection": "656b03d747e6af5bd5635582",
+                        "qoo": "656b048e47e6af5bd56356df",
+                        "contactToken": "98d4f79d-e453-4a1d-ace9-a20ad2a4f860",
+                        "duration": 11031,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-05T08:00:16.521Z"
+                            },
+                            {
+                                "viewTime": "2023-12-05T08:01:45.472Z"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "656ed90cf28e16d8cf83b5d0",
+                        "qoolection": "656b03d747e6af5bd5635582",
+                        "qoo": "656b048e47e6af5bd56356df",
+                        "contactToken": "9697d8e7-1fbd-42f8-bbe9-55c918de6a57",
+                        "duration": 3421,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-05T08:02:20.002Z"
+                            }
+                        ]
+                    }
+                ],
+                "totalViews": 3,
+                "viewsForQoolection": 3,
+                "uniqueViewsForQoolection": 2,
+                "viewTimeForQoolection": 14452,
+                "averageTimeForQoolection": 4818,
+                "uniqueViews": 2,
+                "totalViewTime": 14452,
+                "averageTime": 4818
+            },
+            {
+                "_id": "656b04c447e6af5bd56358b8",
+                "title": "at q3",
+                "views": 3,
+                "viewTimes": [
+                    "2023-12-05T08:00:25.093Z",
+                    "2023-12-05T08:01:47.932Z",
+                    "2023-12-05T08:02:23.423Z"
+                ],
+                "engagements": [
+                    {
+                        "_id": "656ed899f28e16d8cf83b48e",
+                        "qoolection": "656b03d747e6af5bd5635582",
+                        "qoo": "656b04c447e6af5bd56358b8",
+                        "contactToken": "98d4f79d-e453-4a1d-ace9-a20ad2a4f860",
+                        "duration": 8931,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-05T08:00:25.093Z"
+                            },
+                            {
+                                "viewTime": "2023-12-05T08:01:47.932Z"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "656ed910f28e16d8cf83b5d8",
+                        "qoolection": "656b03d747e6af5bd5635582",
+                        "qoo": "656b04c447e6af5bd56358b8",
+                        "contactToken": "9697d8e7-1fbd-42f8-bbe9-55c918de6a57",
+                        "duration": 3224,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-05T08:02:23.423Z"
+                            }
+                        ]
+                    }
+                ],
+                "totalViews": 3,
+                "viewsForQoolection": 3,
+                "uniqueViewsForQoolection": 2,
+                "viewTimeForQoolection": 12155,
+                "averageTimeForQoolection": 4052,
+                "uniqueViews": 2,
+                "totalViewTime": 12155,
+                "averageTime": 4052
+            },
+            {
+                "_id": "656b04da47e6af5bd563595b",
+                "title": "at q4",
+                "views": 3,
+                "viewTimes": [
+                    "2023-12-05T08:00:32.187Z",
+                    "2023-12-05T08:01:49.770Z",
+                    "2023-12-05T08:02:26.648Z"
+                ],
+                "engagements": [
+                    {
+                        "_id": "656ed8a0f28e16d8cf83b49c",
+                        "qoolection": "656b03d747e6af5bd5635582",
+                        "qoo": "656b04da47e6af5bd563595b",
+                        "contactToken": "98d4f79d-e453-4a1d-ace9-a20ad2a4f860",
+                        "duration": 10560,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-05T08:00:32.187Z"
+                            },
+                            {
+                                "viewTime": "2023-12-05T08:01:49.770Z"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "656ed913f28e16d8cf83b5e0",
+                        "qoolection": "656b03d747e6af5bd5635582",
+                        "qoo": "656b04da47e6af5bd563595b",
+                        "contactToken": "9697d8e7-1fbd-42f8-bbe9-55c918de6a57",
+                        "duration": 0,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-05T08:02:26.648Z"
+                            }
+                        ]
+                    }
+                ],
+                "totalViews": 3,
+                "viewsForQoolection": 3,
+                "uniqueViewsForQoolection": 2,
+                "viewTimeForQoolection": 10560,
+                "averageTimeForQoolection": 3520,
+                "uniqueViews": 2,
+                "totalViewTime": 10560,
+                "averageTime": 3520
+            },
+            {
+                "_id": "656b04ea47e6af5bd56359fe",
+                "title": "at q5",
+                "views": 2,
+                "viewTimes": [
+                    "2023-12-05T08:00:40.887Z",
+                    "2023-12-05T08:01:51.630Z"
+                ],
+                "engagements": [
+                    {
+                        "_id": "656ed8a9f28e16d8cf83b4ae",
+                        "qoolection": "656b03d747e6af5bd5635582",
+                        "qoo": "656b04ea47e6af5bd56359fe",
+                        "contactToken": "98d4f79d-e453-4a1d-ace9-a20ad2a4f860",
+                        "duration": 0,
+                        "eventType": "completed",
+                        "viewsByContact": []
+                    },
+                    {
+                        "_id": "656ed8a9f28e16d8cf83b4b2",
+                        "qoolection": "656b03d747e6af5bd5635582",
+                        "qoo": "656b04ea47e6af5bd56359fe",
+                        "contactToken": "98d4f79d-e453-4a1d-ace9-a20ad2a4f860",
+                        "duration": 78000,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-05T08:00:40.887Z"
+                            },
+                            {
+                                "viewTime": "2023-12-05T08:01:51.630Z"
+                            }
+                        ]
+                    }
+                ],
+                "totalViews": 2,
+                "viewsForQoolection": 2,
+                "uniqueViewsForQoolection": 1,
+                "viewTimeForQoolection": 78000,
+                "averageTimeForQoolection": 39000,
+                "uniqueViews": 1,
+                "totalViewTime": 78000,
+                "averageTime": 39000
+            }
+        ],
+        "category": [
+            {
+                "_id": "639b19f58fad317f0c21ddac",
+                "name": "Clinical"
+            }
+        ],
+        "audience": [
+            {
+                "_id": "639b19f58fad317f0c21dd94",
+                "name": "Corporate / Internal"
+            }
+        ],
+        "views": 3,
+        "viewTimes": [
+            "2023-12-05T08:00:07.927Z",
+            "2023-12-05T08:01:42.400Z",
+            "2023-12-05T08:02:14.054Z"
+        ],
+        "type": {
+            "_id": "639af317c79aed771b65c7cd",
+            "name": "New Data"
+        },
+        "engagements": [
+            {
+                "_id": "656ed888f28e16d8cf83b46c",
+                "qoolection": "656b03d747e6af5bd5635582",
+                "qoo": "656b03ea47e6af5bd56355ce",
+                "contactToken": "98d4f79d-e453-4a1d-ace9-a20ad2a4f860",
+                "duration": 11665,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-05T08:00:07.927Z"
+                    },
+                    {
+                        "viewTime": "2023-12-05T08:01:42.400Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656ed891f28e16d8cf83b47e",
+                "qoolection": "656b03d747e6af5bd5635582",
+                "qoo": "656b048e47e6af5bd56356df",
+                "contactToken": "98d4f79d-e453-4a1d-ace9-a20ad2a4f860",
+                "duration": 11031,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-05T08:00:16.521Z"
+                    },
+                    {
+                        "viewTime": "2023-12-05T08:01:45.472Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656ed899f28e16d8cf83b48e",
+                "qoolection": "656b03d747e6af5bd5635582",
+                "qoo": "656b04c447e6af5bd56358b8",
+                "contactToken": "98d4f79d-e453-4a1d-ace9-a20ad2a4f860",
+                "duration": 8931,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-05T08:00:25.093Z"
+                    },
+                    {
+                        "viewTime": "2023-12-05T08:01:47.932Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656ed8a0f28e16d8cf83b49c",
+                "qoolection": "656b03d747e6af5bd5635582",
+                "qoo": "656b04da47e6af5bd563595b",
+                "contactToken": "98d4f79d-e453-4a1d-ace9-a20ad2a4f860",
+                "duration": 10560,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-05T08:00:32.187Z"
+                    },
+                    {
+                        "viewTime": "2023-12-05T08:01:49.770Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656ed8a9f28e16d8cf83b4ae",
+                "qoolection": "656b03d747e6af5bd5635582",
+                "qoo": "656b04ea47e6af5bd56359fe",
+                "contactToken": "98d4f79d-e453-4a1d-ace9-a20ad2a4f860",
+                "duration": 0,
+                "eventType": "completed",
+                "viewsByContact": []
+            },
+            {
+                "_id": "656ed8a9f28e16d8cf83b4b2",
+                "qoolection": "656b03d747e6af5bd5635582",
+                "qoo": "656b04ea47e6af5bd56359fe",
+                "contactToken": "98d4f79d-e453-4a1d-ace9-a20ad2a4f860",
+                "duration": 78000,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-05T08:00:40.887Z"
+                    },
+                    {
+                        "viewTime": "2023-12-05T08:01:51.630Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656ed906f28e16d8cf83b5c8",
+                "qoolection": "656b03d747e6af5bd5635582",
+                "qoo": "656b03ea47e6af5bd56355ce",
+                "contactToken": "9697d8e7-1fbd-42f8-bbe9-55c918de6a57",
+                "duration": 5949,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-05T08:02:14.054Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656ed90cf28e16d8cf83b5d0",
+                "qoolection": "656b03d747e6af5bd5635582",
+                "qoo": "656b048e47e6af5bd56356df",
+                "contactToken": "9697d8e7-1fbd-42f8-bbe9-55c918de6a57",
+                "duration": 3421,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-05T08:02:20.002Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656ed910f28e16d8cf83b5d8",
+                "qoolection": "656b03d747e6af5bd5635582",
+                "qoo": "656b04c447e6af5bd56358b8",
+                "contactToken": "9697d8e7-1fbd-42f8-bbe9-55c918de6a57",
+                "duration": 3224,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-05T08:02:23.423Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656ed913f28e16d8cf83b5e0",
+                "qoolection": "656b03d747e6af5bd5635582",
+                "qoo": "656b04da47e6af5bd563595b",
+                "contactToken": "9697d8e7-1fbd-42f8-bbe9-55c918de6a57",
+                "duration": 0,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-05T08:02:26.648Z"
+                    }
+                ]
+            }
+        ],
+        "totalViews": 3,
+        "uniqueViews": 2,
+        "totalViewTime": 132781,
+        "averageTime": 44261,
+        "completedContacts": 1,
+        "completionRate": 50
+    },
+    {
+        "_id": "656b12ee3b31ab0d7aecdc3e",
+        "title": "Test analize qoolection 2",
+        "qoos": [
+            {
+                "_id": "656b12f23b31ab0d7aecdc8b",
+                "title": "Test analyze qoo b1",
+                "views": 5,
+                "viewTimes": [
+                    "2023-12-04T08:14:15.526Z",
+                    "2023-12-04T08:17:28.284Z",
+                    "2023-12-04T09:02:50.980Z",
+                    "2023-12-04T09:04:19.679Z",
+                    "2023-12-04T09:04:29.971Z"
+                ],
+                "engagements": [
+                    {
+                        "_id": "656d8a58eeb93bc4cbb13d43",
+                        "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                        "qoo": "656b12f23b31ab0d7aecdc8b",
+                        "contactToken": "1930b9ed-1e6f-4cf6-8c59-59a70c8f378c",
+                        "duration": 29329,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T08:14:15.526Z"
+                            },
+                            {
+                                "viewTime": "2023-12-04T08:17:28.284Z"
+                            },
+                            {
+                                "viewTime": "2023-12-04T09:02:50.980Z"
+                            },
+                            {
+                                "viewTime": "2023-12-04T09:04:19.679Z"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "656d961e98a9ae2035c0f001",
+                        "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                        "qoo": "656b12f23b31ab0d7aecdc8b",
+                        "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                        "duration": 3204,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T09:04:29.971Z"
+                            }
+                        ]
+                    }
+                ],
+                "totalViews": 5,
+                "viewsForQoolection": 5,
+                "uniqueViewsForQoolection": 2,
+                "viewTimeForQoolection": 32533,
+                "averageTimeForQoolection": 6507,
+                "uniqueViews": 2,
+                "totalViewTime": 32533,
+                "averageTime": 6507
+            },
+            {
+                "_id": "656b13273b31ab0d7aecdd38",
+                "title": "Test analize qoo b2",
+                "views": 4,
+                "viewTimes": [
+                    "2023-12-04T08:14:27.916Z",
+                    "2023-12-04T08:17:38.469Z",
+                    "2023-12-04T09:02:57.736Z",
+                    "2023-12-04T09:04:33.176Z"
+                ],
+                "engagements": [
+                    {
+                        "_id": "656d8a64eeb93bc4cbb13d4b",
+                        "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                        "qoo": "656b13273b31ab0d7aecdd38",
+                        "contactToken": "1930b9ed-1e6f-4cf6-8c59-59a70c8f378c",
+                        "duration": 17765,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T08:14:27.916Z"
+                            },
+                            {
+                                "viewTime": "2023-12-04T08:17:38.469Z"
+                            },
+                            {
+                                "viewTime": "2023-12-04T09:02:57.736Z"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "656d962198a9ae2035c0f009",
+                        "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                        "qoo": "656b13273b31ab0d7aecdd38",
+                        "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                        "duration": 2564,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T09:04:33.176Z"
+                            }
+                        ]
+                    }
+                ],
+                "totalViews": 4,
+                "viewsForQoolection": 4,
+                "uniqueViewsForQoolection": 2,
+                "viewTimeForQoolection": 20329,
+                "averageTimeForQoolection": 5083,
+                "uniqueViews": 2,
+                "totalViewTime": 20329,
+                "averageTime": 5083
+            },
+            {
+                "_id": "656af3043712ce78b0b20c26",
+                "title": "Test Analytics qoo 2",
+                "views": 5,
+                "viewTimes": [
+                    "2023-12-04T08:14:40.545Z",
+                    "2023-12-04T09:03:02.873Z",
+                    "2023-12-04T09:04:35.741Z",
+                    "2023-12-04T09:13:50.371Z",
+                    "2023-12-04T09:14:19.392Z"
+                ],
+                "engagements": [
+                    {
+                        "_id": "656d8a71eeb93bc4cbb13d53",
+                        "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                        "qoo": "656af3043712ce78b0b20c26",
+                        "contactToken": "1930b9ed-1e6f-4cf6-8c59-59a70c8f378c",
+                        "duration": 17742,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T08:14:40.545Z"
+                            },
+                            {
+                                "viewTime": "2023-12-04T09:03:02.873Z"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "656d962498a9ae2035c0f011",
+                        "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                        "qoo": "656af3043712ce78b0b20c26",
+                        "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                        "duration": 0,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T09:04:35.741Z"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "656d984e98a9ae2035c0f082",
+                        "qoolection": "656af2a23712ce78b0b20b45",
+                        "qoo": "656af3043712ce78b0b20c26",
+                        "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                        "duration": 4890,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T09:13:50.371Z"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": "656d986b98a9ae2035c0f0da",
+                        "qoolection": "656af2a23712ce78b0b20b45",
+                        "qoo": "656af3043712ce78b0b20c26",
+                        "contactToken": "e5d56dd5-31fb-4b0b-b3a7-43ff549da8d1",
+                        "duration": 7011,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T09:14:19.392Z"
+                            }
+                        ]
+                    }
+                ],
+                "totalViews": 5,
+                "viewsForQoolection": 3,
+                "uniqueViewsForQoolection": 2,
+                "viewTimeForQoolection": 17742,
+                "averageTimeForQoolection": 5914,
+                "uniqueViews": 2,
+                "totalViewTime": 17742,
+                "averageTime": 3549
+            },
+            {
+                "_id": "656b136c3b31ab0d7aecddf5",
+                "title": "Test analize Qoo B4",
+                "views": 2,
+                "viewTimes": [
+                    "2023-12-04T08:14:51.573Z",
+                    "2023-12-04T09:03:09.588Z"
+                ],
+                "engagements": [
+                    {
+                        "_id": "656d8a7beeb93bc4cbb13d5c",
+                        "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                        "qoo": "656b136c3b31ab0d7aecddf5",
+                        "contactToken": "1930b9ed-1e6f-4cf6-8c59-59a70c8f378c",
+                        "duration": 0,
+                        "eventType": "completed",
+                        "viewsByContact": []
+                    },
+                    {
+                        "_id": "656d8a7ceeb93bc4cbb13d5f",
+                        "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                        "qoo": "656b136c3b31ab0d7aecddf5",
+                        "contactToken": "1930b9ed-1e6f-4cf6-8c59-59a70c8f378c",
+                        "duration": 19000,
+                        "eventType": "view",
+                        "viewsByContact": [
+                            {
+                                "viewTime": "2023-12-04T08:14:51.573Z"
+                            },
+                            {
+                                "viewTime": "2023-12-04T09:03:09.588Z"
+                            }
+                        ]
+                    }
+                ],
+                "totalViews": 2,
+                "viewsForQoolection": 2,
+                "uniqueViewsForQoolection": 1,
+                "viewTimeForQoolection": 19000,
+                "averageTimeForQoolection": 9500,
+                "uniqueViews": 1,
+                "totalViewTime": 19000,
+                "averageTime": 9500
+            }
+        ],
+        "category": [
+            {
+                "_id": "639b080181bb4f7757d00239",
+                "name": "Marketing"
+            }
+        ],
+        "audience": [
+            {
+                "_id": "639b080a81bb4f7757d0023d",
+                "name": "Marketing"
+            }
+        ],
+        "views": 5,
+        "viewTimes": [
+            "2023-12-04T08:14:15.526Z",
+            "2023-12-04T08:17:28.284Z",
+            "2023-12-04T09:02:50.980Z",
+            "2023-12-04T09:04:19.679Z",
+            "2023-12-04T09:04:29.971Z"
+        ],
+        "type": {
+            "_id": "639af317c79aed771b65c7cd",
+            "name": "New Data"
+        },
+        "engagements": [
+            {
+                "_id": "656d8a58eeb93bc4cbb13d43",
+                "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                "qoo": "656b12f23b31ab0d7aecdc8b",
+                "contactToken": "1930b9ed-1e6f-4cf6-8c59-59a70c8f378c",
+                "duration": 29329,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-04T08:14:15.526Z"
+                    },
+                    {
+                        "viewTime": "2023-12-04T08:17:28.284Z"
+                    },
+                    {
+                        "viewTime": "2023-12-04T09:02:50.980Z"
+                    },
+                    {
+                        "viewTime": "2023-12-04T09:04:19.679Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656d8a64eeb93bc4cbb13d4b",
+                "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                "qoo": "656b13273b31ab0d7aecdd38",
+                "contactToken": "1930b9ed-1e6f-4cf6-8c59-59a70c8f378c",
+                "duration": 17765,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-04T08:14:27.916Z"
+                    },
+                    {
+                        "viewTime": "2023-12-04T08:17:38.469Z"
+                    },
+                    {
+                        "viewTime": "2023-12-04T09:02:57.736Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656d8a71eeb93bc4cbb13d53",
+                "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                "qoo": "656af3043712ce78b0b20c26",
+                "contactToken": "1930b9ed-1e6f-4cf6-8c59-59a70c8f378c",
+                "duration": 17742,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-04T08:14:40.545Z"
+                    },
+                    {
+                        "viewTime": "2023-12-04T09:03:02.873Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656d8a7beeb93bc4cbb13d5c",
+                "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                "qoo": "656b136c3b31ab0d7aecddf5",
+                "contactToken": "1930b9ed-1e6f-4cf6-8c59-59a70c8f378c",
+                "duration": 0,
+                "eventType": "completed",
+                "viewsByContact": []
+            },
+            {
+                "_id": "656d8a7ceeb93bc4cbb13d5f",
+                "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                "qoo": "656b136c3b31ab0d7aecddf5",
+                "contactToken": "1930b9ed-1e6f-4cf6-8c59-59a70c8f378c",
+                "duration": 19000,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-04T08:14:51.573Z"
+                    },
+                    {
+                        "viewTime": "2023-12-04T09:03:09.588Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656d961e98a9ae2035c0f001",
+                "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                "qoo": "656b12f23b31ab0d7aecdc8b",
+                "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                "duration": 3204,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-04T09:04:29.971Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656d962198a9ae2035c0f009",
+                "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                "qoo": "656b13273b31ab0d7aecdd38",
+                "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                "duration": 2564,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-04T09:04:33.176Z"
+                    }
+                ]
+            },
+            {
+                "_id": "656d962498a9ae2035c0f011",
+                "qoolection": "656b12ee3b31ab0d7aecdc3e",
+                "qoo": "656af3043712ce78b0b20c26",
+                "contactToken": "2637a45f-1fe0-4f33-8b29-ccbab9a36114",
+                "duration": 0,
+                "eventType": "view",
+                "viewsByContact": [
+                    {
+                        "viewTime": "2023-12-04T09:04:35.741Z"
+                    }
+                ]
+            }
+        ],
+        "totalViews": 5,
+        "uniqueViews": 2,
+        "totalViewTime": 89604,
+        "averageTime": 17921,
+        "completedContacts": 1,
+        "completionRate": 50
+    },
+    {
+        "_id": "656b31e8db9970696ad6f9d0",
+        "title": "new analyze tester",
+        "qoos": [
+            {
+                "_id": "656b31eadb9970696ad6fa0e",
+                "title": "q1",
+                "views": 0,
+                "viewTimes": [],
+                "engagements": [],
+                "totalViews": 0,
+                "viewsForQoolection": 0,
+                "uniqueViewsForQoolection": 0,
+                "viewTimeForQoolection": 0,
+                "averageTimeForQoolection": 0,
+                "uniqueViews": 0,
+                "totalViewTime": 0,
+                "averageTime": 0
+            },
+            {
+                "_id": "656b320ddb9970696ad6faaf",
+                "title": "q2",
+                "views": 0,
+                "viewTimes": [],
+                "engagements": [],
+                "totalViews": 0,
+                "viewsForQoolection": 0,
+                "uniqueViewsForQoolection": 0,
+                "viewTimeForQoolection": 0,
+                "averageTimeForQoolection": 0,
+                "uniqueViews": 0,
+                "totalViewTime": 0,
+                "averageTime": 0
+            },
+            {
+                "_id": "656b321bdb9970696ad6fb5f",
+                "title": "q3",
+                "views": 0,
+                "viewTimes": [],
+                "engagements": [],
+                "totalViews": 0,
+                "viewsForQoolection": 0,
+                "uniqueViewsForQoolection": 0,
+                "viewTimeForQoolection": 0,
+                "averageTimeForQoolection": 0,
+                "uniqueViews": 0,
+                "totalViewTime": 0,
+                "averageTime": 0
+            }
+        ],
+        "category": [
+            {
+                "_id": "639b19f58fad317f0c21ddac",
+                "name": "Clinical"
+            }
+        ],
+        "audience": [
+            {
+                "_id": "639b19f58fad317f0c21dd94",
+                "name": "Corporate / Internal"
+            }
+        ],
+        "views": 0,
+        "viewTimes": [],
+        "type": {
+            "_id": "639af317c79aed771b65c7cd",
+            "name": "New Data"
+        },
+        "engagements": [],
+        "totalViews": 0,
+        "uniqueViews": 0,
+        "totalViewTime": 0,
+        "averageTime": 0,
+        "completedContacts": 0,
+        "completionRate": 0
+    },
+    {
+        "_id": "656b366189e1fdcef42c3813",
+        "title": "Test analyze Qoolection 3",
+        "qoos": [
+            {
+                "_id": "656b366389e1fdcef42c3857",
+                "title": "Test analize qoo c1",
+                "views": 0,
+                "viewTimes": [],
+                "engagements": [],
+                "totalViews": 0,
+                "viewsForQoolection": 0,
+                "uniqueViewsForQoolection": 0,
+                "viewTimeForQoolection": 0,
+                "averageTimeForQoolection": 0,
+                "uniqueViews": 0,
+                "totalViewTime": 0,
+                "averageTime": 0
+            },
+            {
+                "_id": "656b368f89e1fdcef42c38f2",
+                "title": "Test analize Qoo C2",
+                "views": 0,
+                "viewTimes": [],
+                "engagements": [],
+                "totalViews": 0,
+                "viewsForQoolection": 0,
+                "uniqueViewsForQoolection": 0,
+                "viewTimeForQoolection": 0,
+                "averageTimeForQoolection": 0,
+                "uniqueViews": 0,
+                "totalViewTime": 0,
+                "averageTime": 0
+            }
+        ],
+        "category": [
+            {
+                "_id": "639b080181bb4f7757d00239",
+                "name": "Marketing"
+            }
+        ],
+        "audience": [
+            {
+                "_id": "639b080a81bb4f7757d0023d",
+                "name": "Marketing"
+            }
+        ],
+        "views": 0,
+        "viewTimes": [],
+        "type": {
+            "_id": "639af317c79aed771b65c7cd",
+            "name": "New Data"
+        },
+        "engagements": [],
+        "totalViews": 0,
+        "uniqueViews": 0,
+        "totalViewTime": 0,
+        "averageTime": 0,
+        "completedContacts": 0,
+        "completionRate": 0
+    }
+]
